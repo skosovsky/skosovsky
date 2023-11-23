@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there, I'm Sergey 👋
+### And I'm a go-devoloper
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
+- 🔭 I’m currently working on something cool!
+- 🌱 I’m currently learning Golang
+- 🗒️ About my experiences [Hh (Ru)](https://hh.ru/resume/c114bd7bff0c803f270039ed1f77444130316e)
 
 <!--
 **skosovsky/skosovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
