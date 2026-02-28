@@ -8,6 +8,20 @@ My focus is at the intersection of **Backend Engineering** and **Applied AI** �
 
 ---
 
+### 🚀 Featured AI & Go Projects
+
+Here are some of my recent open-source tools focused on AI integration and backend orchestration:
+
+- 🛡️ **[guardy](https://github.com/skosovsky/guardy)** — Robust validation and guardrails for AI/LLM responses and data flow.
+- 🧰 **[toolsy](https://github.com/skosovsky/toolsy)** — Tool-calling utilities and integrations for extending AI agent capabilities in Go.
+- 🌊 **[flowy](https://github.com/skosovsky/flowy)** — Engine for managing complex agentic workflows and execution pipelines.
+- 💬 **[prompty](https://github.com/skosovsky/prompty)** — Dynamic prompt engineering, versioning, and templating manager.
+- 🧠 **[contexty](https://github.com/skosovsky/contexty)** — Smart context window management and memory handling for LLM applications.
+
+*(Feel free to explore the code and contribute!)*
+
+---
+
 ### 🛠️ Tech Stack
 
 **Backend & Architecture**
@@ -72,20 +86,6 @@ My focus is at the intersection of **Backend Engineering** and **Applied AI** �
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white)
-
----
-
-### 🚀 Featured AI & Go Projects
-
-Here are some of my recent open-source tools focused on AI integration and backend orchestration:
-
-- 🛡️ **[guardy](https://github.com/skosovsky/guardy)** — Robust validation and guardrails for AI/LLM responses and data flow.
-- 🧰 **[toolsy](https://github.com/skosovsky/toolsy)** — Tool-calling utilities and integrations for extending AI agent capabilities in Go.
-- 🌊 **[flowy](https://github.com/skosovsky/flowy)** — Engine for managing complex agentic workflows and execution pipelines.
-- 💬 **[prompty](https://github.com/skosovsky/prompty)** — Dynamic prompt engineering, versioning, and templating manager.
-- 🧠 **[contexty](https://github.com/skosovsky/contexty)** — Smart context window management and memory handling for LLM applications.
-
-*(Feel free to explore the code and contribute!)*
 
 ---
 
