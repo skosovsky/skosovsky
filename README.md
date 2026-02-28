@@ -10,7 +10,8 @@ My focus is at the intersection of **Backend Engineering** and **Applied AI** ‚Ä
 
 ### üõ†Ô∏è Tech Stack
 
-**Backend & Architecture** ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+**Backend & Architecture**
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -21,7 +22,8 @@ My focus is at the intersection of **Backend Engineering** and **Applied AI** ‚Ä
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-**Infrastructure & DevOps** ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+**Infrastructure & DevOps**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
@@ -31,9 +33,19 @@ My focus is at the intersection of **Backend Engineering** and **Applied AI** ‚Ä
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**AI & Tooling** ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+**AI Ecosystem & LLM Tooling**
+![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-%23000000.svg?style=for-the-badge&logo=anthropic&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-%238E75B2.svg?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-%23FFFFFF.svg?style=for-the-badge&logo=langchain&logoColor=black)
+![Vector DBs](https://img.shields.io/badge/Vector%20DBs%20(Milvus/Qdrant)-%23090909.svg?style=for-the-badge&logo=databricks&logoColor=white)
+![MCP Servers](https://img.shields.io/badge/MCP%20Servers-%23244c5a.svg?style=for-the-badge&logo=microchip&logoColor=white)
+![Cursor AI](https://img.shields.io/badge/Cursor%20AI-%23000000.svg?style=for-the-badge&logo=cursor&logoColor=white)
+![Midjourney](https://img.shields.io/badge/Midjourney-%23FFFFFF.svg?style=for-the-badge&logo=midjourney&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+**Development Tooling**
 ![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?style=for-the-badge&logo=goland&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
