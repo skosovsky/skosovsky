@@ -16,12 +16,16 @@ My focus is at the intersection of **Backend Engineering** and **Applied AI** â€
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-%23231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-%23244c5a.svg?style=for-the-badge&logo=grpc&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![etcd](https://img.shields.io/badge/etcd-%23232D50.svg?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20API-%23171B20.svg?style=for-the-badge)
 
 **Infrastructure & DevOps**
 
@@ -29,11 +33,16 @@ My focus is at the intersection of **Backend Engineering** and **Applied AI** â€
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-%23000000.svg?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-%23005571.svg?style=for-the-badge&logo=Kibana&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-%23FFFFFF.svg?style=for-the-badge&logo=databricks&logoColor=black)
 
 **AI Ecosystem & LLM Tooling**
 
@@ -41,17 +50,24 @@ My focus is at the intersection of **Backend Engineering** and **Applied AI** â€
 ![Anthropic](https://img.shields.io/badge/Anthropic-%23000000.svg?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-%238E75B2.svg?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+
 ![LangChain](https://img.shields.io/badge/LangChain-%23FFFFFF.svg?style=for-the-badge&logo=langchain&logoColor=black)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-%23000000.svg?style=for-the-badge)
 ![Vector DBs](https://img.shields.io/badge/Vector%20DBs%20(Milvus/Qdrant)-%23090909.svg?style=for-the-badge&logo=databricks&logoColor=white)
 ![MCP Servers](https://img.shields.io/badge/MCP%20Servers-%23244c5a.svg?style=for-the-badge&logo=microchip&logoColor=white)
-![Cursor AI](https://img.shields.io/badge/Cursor%20AI-%23000000.svg?style=for-the-badge&logo=cursor&logoColor=white)
-![Midjourney](https://img.shields.io/badge/Midjourney-%23FFFFFF.svg?style=for-the-badge&logo=midjourney&logoColor=black)
+
+![Langfuse](https://img.shields.io/badge/Langfuse-%23E11D48.svg?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-%23FFFFFF.svg?style=for-the-badge&logo=ollama&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 **Development Tooling**
 
 ![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?style=for-the-badge&logo=goland&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Makefile](https://img.shields.io/badge/Makefile-%23000000.svg?style=for-the-badge)
+
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
