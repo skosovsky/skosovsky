@@ -10,13 +10,16 @@ My focus is at the intersection of **Backend Engineering** and **Applied AI** �
 
 ### 🚀 Featured AI & Go Projects
 
-Here are some of my recent open-source tools focused on AI integration and backend orchestration:
+Here are some of my recent open-source tools focused on AI integration, agent orchestration, and backend infrastructure:
 
 - 🛡️ **[guardy](https://github.com/skosovsky/guardy)** — Robust validation and guardrails for AI/LLM responses and data flow.
 - 🧰 **[toolsy](https://github.com/skosovsky/toolsy)** — Tool-calling utilities and integrations for extending AI agent capabilities in Go.
-- 🌊 **[flowy](https://github.com/skosovsky/flowy)** — Engine for managing complex agentic workflows and execution pipelines.
-- 💬 **[prompty](https://github.com/skosovsky/prompty)** — Dynamic prompt engineering, versioning, and templating manager.
-- 🧠 **[contexty](https://github.com/skosovsky/contexty)** — Smart context window management and memory handling for LLM applications.
+- 🌊 **[flowy](https://github.com/skosovsky/flowy)** — Type-safe engine for managing complex agentic workflows and execution pipelines.
+- 💬 **[prompty](https://github.com/skosovsky/prompty)** — Prompt templating, versioning, and workflow management for LLM applications.
+- 🧠 **[contexty](https://github.com/skosovsky/contexty)** — Token budget allocation, context packing, and memory-aware prompt construction.
+- 📚 **[ragy](https://github.com/skosovsky/ragy)** — Lightweight RAG and semantic memory engine for AI applications in Go.
+- 📊 **[metry](https://github.com/skosovsky/metry)** — Observability and LLMOps toolkit for tracing, metrics, and AI workflow monitoring.
+- 🧭 **[routery](https://github.com/skosovsky/routery)** — Routing, fallback, and resiliency utilities for backend and AI orchestration.
 
 *(Feel free to explore the code and contribute!)*
 
