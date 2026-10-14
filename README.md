@@ -12,14 +12,16 @@ My focus is at the intersection of **Backend Engineering** and **Applied AI** �
 
 Here are some of my recent open-source tools focused on AI integration, agent orchestration, and backend infrastructure:
 
-- 🛡️ **[guardy](https://github.com/skosovsky/guardy)** — Robust validation and guardrails for AI/LLM responses and data flow.
-- 🧰 **[toolsy](https://github.com/skosovsky/toolsy)** — Tool-calling utilities and integrations for extending AI agent capabilities in Go.
-- 🌊 **[flowy](https://github.com/skosovsky/flowy)** — Type-safe engine for managing complex agentic workflows and execution pipelines.
-- 💬 **[prompty](https://github.com/skosovsky/prompty)** — Prompt templating, versioning, and workflow management for LLM applications.
-- 🧠 **[contexty](https://github.com/skosovsky/contexty)** — Token budget allocation, context packing, and memory-aware prompt construction.
-- 📚 **[ragy](https://github.com/skosovsky/ragy)** — Lightweight RAG and semantic memory engine for AI applications in Go.
-- 📊 **[metry](https://github.com/skosovsky/metry)** — Observability and LLMOps toolkit for tracing, metrics, and AI workflow monitoring.
-- 🧭 **[routery](https://github.com/skosovsky/routery)** — Routing, fallback, and resiliency utilities for backend and AI orchestration.
+- 🛡️ **[guardy](https://github.com/skosovsky/guardy)** — Typed validation pipelines and guardrails for AI/LLM responses and data flow.
+- 🧰 **[toolsy](https://github.com/skosovsky/toolsy)** — Typed AI tools with JSON Schema, argument validation, and streaming execution in Go.
+- 🌊 **[flowy](https://github.com/skosovsky/flowy)** — Type-safe graph execution and durable orchestration for agentic workflows.
+- 💬 **[prompty](https://github.com/skosovsky/prompty)** — Prompt management, templating, and unified access to multiple LLM providers.
+- 🧠 **[contexty](https://github.com/skosovsky/contexty)** — Typed LLM context management with token budgets, context packing, and checkpoint storage.
+- 📚 **[ragy](https://github.com/skosovsky/ragy)** — Typed retrieval toolkit for semantic search, RAG pipelines, and hybrid retrieval.
+- 🗃️ **[memy](https://github.com/skosovsky/memy)** — Typed knowledge lifecycle with host-approved updates, canonical storage, scoped recall, and revocation.
+- 🧪 **[evaly](https://github.com/skosovsky/evaly)** — Typed evaluation with immutable datasets, isolated runs, graders, comparisons, and bounded optimization.
+- 📊 **[metry](https://github.com/skosovsky/metry)** — OpenTelemetry and LLMOps toolkit for tracing, metrics, and AI workflow monitoring.
+- 🧭 **[routery](https://github.com/skosovsky/routery)** — Generic routing, fallback, and resiliency utilities for backend and AI orchestration.
 
 *(Feel free to explore the code and contribute!)*
 
